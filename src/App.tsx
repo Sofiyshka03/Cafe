@@ -227,7 +227,7 @@ const MENU_DATA: MenuItemType[] = [
     name: "Со страчателлой и мортаделлой",
     description: "",
     price: 800,
-    image: "https://images.unsplash.com/photo-1684823906761-30fd02a961cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdHJhY2NpYXRlbGxhJTIwbW9ydGFkZWxsYSUyMHBpenphfGVufDF8fHx8MTc2MTU4MzY1OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: "https://downloader.disk.yandex.ru/preview/bff9a6b599db6cf3f926e46e4c8e51e71d80f1ad92fa733b73047d54e402eb40/68fff800/VCwoLNkAyRhbDqC9Yds3TrrU_Fni2nyK2ydJvcKDV4E1E5K2m_9yAN_Ghy7e_vxPmLx0DHoS2UbpySXFEHzoZQ%3D%3D?uid=0&filename=TIM08743.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v3&size=1860x885",
     category: "Пицца",
   },
   {
